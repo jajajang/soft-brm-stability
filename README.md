@@ -1,5 +1,7 @@
 # Numerical illustration for "Statistical Complexity of Soft Bellman Residual Minimization"
 
+This project provides supplementary experiments for **"Statistical Complexity of Soft Bellman Residual Minimization," accepted at NeurIPS 2026**. It supports the experimental additions to the camera-ready paper and includes the experiment code, numerical results, analysis scripts, and figures.
+
 Coupled minibatch SGDA on the bi-conjugate soft-BRM objective with two-layer networks,
 measuring argument stability and the exact excess population MSBE as functions of n.
 Pure numpy; gradients are hand-derived and checked against finite differences (max relative error ~1e-9).
